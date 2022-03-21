@@ -2,7 +2,7 @@
 ## Nice to meet you.
 
 - I'm from Brazil.
-- Currently, I'm a System Analyst at [Teknisa Software](https://www.teknisa.com/).
+- Currently, I'm a PL/SQL Developer at [FOCCO - Soluções de Gestão](https://www.focco.com.br/).
 - I'm in love with Data Science and Machine Learning.
 - I'm a homebrewer.
 
